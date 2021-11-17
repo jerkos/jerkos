@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Pragmatic full stack developer
+
+🔭 I’m currently working on helping developers creating libraries for them. (But aslo for fun)
+
+Like 🐍, ☕, 🐘
 <!--
 **jerkos/jerkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
